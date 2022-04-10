@@ -26,11 +26,11 @@ do {
 	while (ch != '\n');
 ```
 ## Skip images and test emphasis etc.
-skip
-***BUT LET'S TEST EMPHASIS***
-__boldtext__
-_italic_ 
-text that is ~~struck~~, 3~ don't work
+- skip images
+- ***BUT LET'S TEST DOUBLE EMPHASIS***
+- __boldtext__
+- _italic text_ 
+- text that is ~~struck~~, 3~ don't work
 
 ### LINKS
 [text link] (https://duckduckgo.com)
