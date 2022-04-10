@@ -6,11 +6,7 @@ some text here
 
 - Here are some points
 - these ones are dashes
-- not sure if I have to do it on all of them
-   so i will try extra
-   text here
-   to see if this works
-   indented below
+- not sure if I have to do it on all of them (I do)
    
    
 1. i hear that numbers work too
@@ -33,11 +29,12 @@ do {
 - text that is ~~struck~~, 3~ don't work
 
 ### LINKS
-[text link] (https://duckduckgo.com)
+- Text before link [text link](https://duckduckgo.com)
+	- created with '[] ()' syntax, no space
 
-and with title
 
-[text link with title] (https://duckduckgo.com "DDG HOME")
+- Link 2[text link with title] (https://duckduckgo.com "DDG HOME")
+	- created with (link"") name inside quotes
 
 ---
 horizontal Rule
