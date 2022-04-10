@@ -38,7 +38,7 @@ do {
 		- apparently, no spaces.
 
 ---
-horizontal Rule [^1]
+### horizontal Rule [^1]
 ---
 
 #### lists
@@ -48,9 +48,12 @@ horizontal Rule [^1]
   * item inside
 * item
 
-[x] unordered list
-[x] ordered list
-[] empty check mark in a list
+- [x] unordered list
+- [x] ordered list
+- [] pictures
+- [] blank line paragraphs
+- [] pictures
+- [] references
 
 > Block
 
@@ -65,7 +68,7 @@ horizontal Rule [^1]
 
 ---
 [^1]: First use of a rule.
-[^tables]: I guess they don't work in githubs markdown.
+[^tables]: I guess they don't work on Github.
 
 
 
