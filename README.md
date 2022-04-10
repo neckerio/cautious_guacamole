@@ -6,7 +6,8 @@ some text here
 
 - Here are some points
 - these ones are dashes
-- not sure if I have to do it on all of them (I do)
+- not sure if I have to do it on all of them
+	- I now know I do
    
    
 1. I hear that numbers work too
@@ -29,13 +30,11 @@ do {
 - text that is ~~struck~~, 3~ don't work
 
 ### LINKS
-- Text before link [text link](https://duckduckgo.com)
+- Text before link [DDG Home Page](https://duckduckgo.com)
 	- created with '[] ()' syntax, no space
 
 
-- Link 2[text link with title] (https://duckduckgo.com"DDGHOME")
-	- created with (link"") name inside quotes.
-		- apparently, no spaces.
+- Link type 2, created with (link"") name inside quotes, doesn't work
 
 ---
 ### horizontal Rule [^1]
@@ -51,9 +50,9 @@ do {
 - [x] unordered list
 - [x] ordered list
 - [] pictures
-- [] blank line paragraphs
-- [] pictures
-- [] references
+- [ ] blank line paragraphs
+- [ ] pictures
+- [ ] references
 
 > Block
 
