@@ -9,7 +9,7 @@ some text here
 - not sure if I have to do it on all of them (I do)
    
    
-1. i hear that numbers work too
+1. I hear that numbers work too
 2. here are numbers
 3. and a third
 
@@ -33,11 +33,12 @@ do {
 	- created with '[] ()' syntax, no space
 
 
-- Link 2[text link with title] (https://duckduckgo.com "DDG HOME")
-	- created with (link"") name inside quotes
+- Link 2[text link with title] (https://duckduckgo.com"DDGHOME")
+	- created with (link"") name inside quotes.
+		- apparently, no spaces.
 
 ---
-horizontal Rule
+horizontal Rule [^1]
 ---
 
 #### lists
@@ -47,9 +48,13 @@ horizontal Rule
   * item inside
 * item
 
+[x] unordered list
+[x] ordered list
+[] empty check mark in a list
+
 > Block
 
-## Tables
+## Tables [^tables]
 
 | T  | P  |
 | __ | __ |
@@ -57,5 +62,10 @@ horizontal Rule
 |    |    |
 |    |    |
 | df | cd |
+
+---
+[^1]: First use of a rule.
+[^tables]: I guess they don't work in githubs markdown.
+
 
 
