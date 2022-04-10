@@ -4,12 +4,13 @@ some text here
 
 ## Sub heading
 
--Here are some points
--these ones are dashes
--not sure if I have to do it on all of them
+- Here are some points
+- these ones are dashes
+- not sure if I have to do it on all of them
    so i will try extra
    text here
    to see if this works
+   indented below
    
    
 1. i hear that numbers work too
