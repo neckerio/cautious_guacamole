@@ -28,8 +28,9 @@ do {
 ## Skip images and test emphasis etc.
 skip
 ***BUT LET'S TEST EMPHASIS***
-__text__
-text that is ~~struck~~, 2~ don't work
+__boldtext__
+_italic_ 
+text that is ~~struck~~, 3~ don't work
 
 ### LINKS
 [text link] (https://duckduckgo.com)
