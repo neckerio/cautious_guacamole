@@ -49,7 +49,7 @@ do {
 
 - [x] unordered list
 - [x] ordered list
-- [] pictures
+- [ ] pictures
 - [ ] blank line paragraphs
 - [ ] pictures
 - [ ] references
